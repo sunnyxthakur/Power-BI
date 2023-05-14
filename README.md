@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 Project Details </h3>
 
 - 🔭 &nbsp; Power Query Data Cleansing
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring New measures, tooltip, drilldown and cross report.
 - 🎓 &nbsp; Create Report Sales Analysis in detail
 - 💼 &nbsp; Create Dashboard, alert 
 
